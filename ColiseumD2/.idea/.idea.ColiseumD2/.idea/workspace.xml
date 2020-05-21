@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2f2b779-cad1-4d6e-9b64-719d84216752" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomListingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LancerLaPartie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LobbyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomListing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerListingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Billboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThirdPersonCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playerMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerListing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DropDownArena.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkConnectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ThirdPersonCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerListing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoomListingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerListing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerListingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoomListing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Weapons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DropDownArena.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThirdPersonCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LancerLaPartie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LobbyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/playerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Billboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerAttack.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqHEvurxqcV8HYTtVPzn8UgG2X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f2b779-cad1-4d6e-9b64-719d84216752" name="Default Changelist" comment="" />
+      <created>1583663096528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583663096528</updated>
+      <workItem from="1583663100753" duration="244000" />
+      <workItem from="1583685204973" duration="31000" />
+      <workItem from="1583685252899" duration="45000" />
+      <workItem from="1583685315189" duration="27000" />
+      <workItem from="1583685361194" duration="167000" />
+      <workItem from="1583685570102" duration="26000" />
+      <workItem from="1583685753267" duration="2683000" />
+      <workItem from="1583688710238" duration="49000" />
+      <workItem from="1583688788781" duration="1791000" />
+      <workItem from="1583746811669" duration="89000" />
+      <workItem from="1583759414856" duration="25000" />
+      <workItem from="1583764369215" duration="4000" />
+      <workItem from="1583765019957" duration="10000" />
+      <workItem from="1583767247862" duration="145000" />
+      <workItem from="1583767445679" duration="1471000" />
+      <workItem from="1583833820924" duration="822000" />
+      <workItem from="1583835760360" duration="4426000" />
+      <workItem from="1583858580336" duration="2053000" />
+      <workItem from="1583862649323" duration="48000" />
+      <workItem from="1583926626608" duration="1101000" />
+      <workItem from="1583935847966" duration="2579000" />
+      <workItem from="1583938822860" duration="183000" />
+      <workItem from="1583939266425" duration="78000" />
+      <workItem from="1583939630244" duration="747000" />
+      <workItem from="1583946314083" duration="66000" />
+      <workItem from="1583948643103" duration="2520000" />
+      <workItem from="1584106641699" duration="1368000" />
+      <workItem from="1584108324916" duration="825000" />
+      <workItem from="1584109913211" duration="1275000" />
+      <workItem from="1584111929786" duration="460000" />
+      <workItem from="1587049554684" duration="15277000" />
+      <workItem from="1587068956874" duration="4488000" />
+      <workItem from="1587124167298" duration="4368000" />
+      <workItem from="1587300872185" duration="13388000" />
+      <workItem from="1587383980531" duration="143000" />
+      <workItem from="1587387213157" duration="4187000" />
+      <workItem from="1587477493683" duration="2000" />
+      <workItem from="1587477932152" duration="5000" />
+      <workItem from="1587478058649" duration="1210000" />
+      <workItem from="1587479294744" duration="136000" />
+      <workItem from="1587479547471" duration="924000" />
+      <workItem from="1587480507431" duration="4000" />
+      <workItem from="1587480527758" duration="61000" />
+      <workItem from="1587480810046" duration="1647000" />
+      <workItem from="1587482479978" duration="2037000" />
+      <workItem from="1587554641396" duration="173000" />
+      <workItem from="1587558768529" duration="5286000" />
+      <workItem from="1587636212386" duration="675000" />
+      <workItem from="1589117810378" duration="4888000" />
+      <workItem from="1589122893660" duration="320000" />
+      <workItem from="1589280884866" duration="6797000" />
+      <workItem from="1589376484858" duration="11666000" />
+      <workItem from="1589395397805" duration="2785000" />
+      <workItem from="1589464450059" duration="9457000" />
+      <workItem from="1589547469422" duration="1477000" />
+      <workItem from="1589554226037" duration="2289000" />
+      <workItem from="1589818658314" duration="2070000" />
+      <workItem from="1589825852569" duration="374000" />
+      <workItem from="1589826913104" duration="393000" />
+      <workItem from="1589893844511" duration="761000" />
+      <workItem from="1590081077357" duration="6862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
